@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.377">
+    <testcase classname="This feature will test/verify the home page of National Australia Bank" name="verify header links presence on home page" time="22.136">
+        <system-out><![CDATA[Given user opens nab website "https://www.nab.com.au/"......................passed
+Then nab website should load successfuly....................................passed
+And "Personal" link should present on home page.............................passed
+And "Business" link should present on home page.............................passed
+And "Corporate" link should present on home page............................passed
+And "About us" link should present on home page.............................passed
+And "Help" link should present on home page.................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
